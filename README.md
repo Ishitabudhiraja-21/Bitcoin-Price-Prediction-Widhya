@@ -1,1 +1,1 @@
-# Bitcoin-Price-Prediction-Windhya
+# Bitcoin-Price-Prediction-Widhya
